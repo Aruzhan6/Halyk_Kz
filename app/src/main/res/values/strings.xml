@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HalykPage</string>
+    <string name="еurasia_text">Халык-Евразия</string>
+    <string name="contract_text">Номер договора - AUP117300416C003</string>
+    <string name="date_text">до 31 марта 2019</string>
+    <string name="contracts_text">Номер договора</string>
+    <string name="numberInformation_text">AUP117300416C003</string>
+    <string name="numberContract_text">AUP117300416C003</string>
+    <string name="information_text">Общая информация</string>
+    <string name="myPolicies_text">Мои полисы</string>
+    <string name="buyPolicy_text">Купить полис</string>
+</resources>
